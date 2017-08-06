@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xusers:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="xusers.war">
+      <element id="artifact" artifact-name="xusers:war exploded" />
+    </root>
+  </artifact>
+</component>
